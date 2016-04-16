@@ -10,4 +10,5 @@ int main (){
     if(numero % 2 == 0)
      printf("0 %d é par !", numero);
 
+return 0;
 }
